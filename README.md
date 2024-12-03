@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/hawkh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
