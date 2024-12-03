@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/hawkh/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/hawkh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
