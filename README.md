@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/hawkh/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -47,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
