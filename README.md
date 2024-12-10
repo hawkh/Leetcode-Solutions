@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/hawkh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,10 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1331-path-with-maximum-gold](https://github.com/hawkh/Leetcode-Solutions/tree/master/1331-path-with-maximum-gold) |
+## Binary Search
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Counting
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
