@@ -55,6 +55,7 @@ Collection of LeetCode questions I have solved till date
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hawkh/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
@@ -101,6 +102,7 @@ Collection of LeetCode questions I have solved till date
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hawkh/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
