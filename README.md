@@ -12,6 +12,7 @@ Collection of LeetCode questions I have solved till date
 | [0485-max-consecutive-ones](https://github.com/hawkh/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hawkh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [1331-path-with-maximum-gold](https://github.com/hawkh/Leetcode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions I have solved till date
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/hawkh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
@@ -92,6 +94,7 @@ Collection of LeetCode questions I have solved till date
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,4 +115,12 @@ Collection of LeetCode questions I have solved till date
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
