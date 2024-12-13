@@ -1,9 +1,6 @@
 # Leetcode-Solutions
 Collection of LeetCode questions I have solved till date
 
-[JSON Configuration](stats.json)
-
-
 
 ## **Overview**
 This repository contains solutions to various problems on **InterviewBit**,**Leetcode**,**Smart Interviews** covering a wide range of topics and difficulty levels. The code snippets provided are as solved on the platform.
