@@ -1,6 +1,48 @@
 # Leetcode-Solutions
 Collection of LeetCode questions I have solved till date
 
+
+
+## **Overview**
+This repository contains solutions to various problems on **InterviewBit**,**Leetcode**,**Smart Interviews** covering a wide range of topics and difficulty levels. The code snippets provided are as solved on the platform.
+
+---
+
+## **Available Topics**
+The repository includes solutions for problems in the following categories:
+- **Programming**: Comprehensive solutions across all major domains, including arrays, strings, dynamic programming, graph algorithms, and more.
+
+---
+
+## **How to Contribute?**
+
+### **Steps to Contribute**
+1. **Fork the Repository**: Start by forking this repository to your own GitHub account.
+2. **Make Changes**: Add, delete, or modify the solutions as needed.
+3. **Create a Pull Request**: Submit your changes for review by creating a pull request.
+
+### **When to Contribute?**
+Contributions are welcome under the following scenarios:
+1. **New Solutions**:
+   - If a problem lacks a solution in the main branch, feel free to add your implementation.
+2. **Improved Solutions**:
+   - If your solution is asymptotically faster than the existing one, replace the original with your implementation.
+   - If your algorithm has the same time complexity but with reduced code size, comment out the original solution and provide your optimized version.
+3. **Alternative Methods**:
+   - If your approach is slower but offers an interesting perspective or learning value, comment it within the main file alongside the original solution.
+
+---
+
+## **Notes**
+- Please ensure your contributions are well-documented with appropriate comments.
+- Adhere to the repository's structure and naming conventions for consistency.
+- Test your solutions on respective platforms before submitting.
+
+---
+
+Contributions to this repository not only enhance its utility but also help the community prepare better for coding interviews. Happy coding! 🎉
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
