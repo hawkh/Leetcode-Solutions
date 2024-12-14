@@ -57,6 +57,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [1331-path-with-maximum-gold](https://github.com/hawkh/Leetcode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
@@ -165,4 +167,20 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
