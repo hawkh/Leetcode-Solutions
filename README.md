@@ -58,6 +58,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0069-sqrtx](https://github.com/hawkh/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -175,6 +178,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Ordered Set
 |  |
 | ------- |
