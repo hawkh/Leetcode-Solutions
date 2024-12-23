@@ -1,45 +1,26 @@
 import java.io.*;
 import java.util.*;
-class Node{
-    int data;
-    Node right,left;
-    public Node(int data){
-        this.data=data;
-        this.right=null;
-        this.left=null;
-    }
-}
 
 public class Main {
-    public static Node insert(Node root,int data){
-        if(root==null){
-            root=new Node(data);
-            return root;
-        }
-        if(data<root.data){
-            root.left=insert(root.left,data);
-        }
-        else if(data>root.data){
-            root.right=insert(root.right,data);
-        }
-        return root;
-    }
-    
+
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int t=s.nextInt();
-        while(t-->0){
+        for(int tc=0;tc<t;tc++){
             int n=s.nextInt();
-            int[] a=new int[n];
-            for(int i=0;i<n;i++){
-                a[i]=s.nextInt();
+            System.out.printf("Case #%d:\n",tc+1);
+            for(int j=0;j<2*n;j++){
+                for(int k=0;k<2*n;k++){
+                    if((j/2+k/2)%2==0){
+                        System.out.print("*");
+                    }
+                    else{
+                        System.out.print("-");
+                    }
+                }
+                System.out.println();
             }
-            Node root=null;
-            for(int i=0;i<n;i++){
-                root=insert(root,a[i]);
-            }
-
-
+            
         }
     }
-    }
+}
