@@ -1,5 +1,5 @@
-# Leetcode-Solutions
-Collection of LeetCode questions I have solved till date
+# DSA-Solutions
+Collection of LeetCode ,Smart Interviews,Interviewbit,Codeforces questions etc  I have solved till date
 
 
 ## **Overview**
