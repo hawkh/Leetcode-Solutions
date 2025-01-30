@@ -47,6 +47,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -114,10 +115,12 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
@@ -187,4 +190,12 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
