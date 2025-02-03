@@ -48,6 +48,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -152,12 +153,14 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/hawkh/Leetcode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hawkh/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
