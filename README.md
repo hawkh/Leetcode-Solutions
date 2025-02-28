@@ -48,6 +48,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hawkh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hawkh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -109,6 +110,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hawkh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hawkh/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -129,6 +131,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hawkh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hawkh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/hawkh/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
