@@ -49,6 +49,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hawkh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -120,6 +121,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hawkh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/hawkh/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
