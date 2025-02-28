@@ -98,6 +98,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0201-bitwise-and-of-numbers-range](https://github.com/hawkh/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/hawkh/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -112,6 +113,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0069-sqrtx](https://github.com/hawkh/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/hawkh/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
