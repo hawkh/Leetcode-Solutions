@@ -124,6 +124,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/hawkh/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1236-n-th-tribonacci-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -137,6 +138,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hawkh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/hawkh/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/hawkh/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [1236-n-th-tribonacci-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,4 +269,8 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hawkh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/hawkh/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
