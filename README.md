@@ -66,6 +66,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [1331-path-with-maximum-gold](https://github.com/hawkh/Leetcode-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -142,10 +143,12 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/hawkh/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/hawkh/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
