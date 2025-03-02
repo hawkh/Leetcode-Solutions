@@ -129,6 +129,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hawkh/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/hawkh/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -169,6 +170,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hawkh/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 ## Backtracking
