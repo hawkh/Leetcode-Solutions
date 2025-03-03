@@ -59,6 +59,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0162-find-peak-element](https://github.com/hawkh/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/hawkh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/hawkh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hawkh/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hawkh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hawkh/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/hawkh/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ Contributions to this repository not only enhance its utility but also help the 
 | [0128-longest-consecutive-sequence](https://github.com/hawkh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/hawkh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hawkh/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hawkh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/hawkh/Leetcode-Solutions/tree/master/0817-design-hashmap) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -97,6 +99,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/hawkh/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hawkh/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/hawkh/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hawkh/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
