@@ -48,6 +48,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hawkh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hawkh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/hawkh/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -145,6 +146,7 @@ Contributions to this repository not only enhance its utility but also help the 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hawkh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/hawkh/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/hawkh/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
