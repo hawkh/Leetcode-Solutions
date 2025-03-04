@@ -47,6 +47,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hawkh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hawkh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -148,6 +149,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hawkh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hawkh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hawkh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hawkh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -280,6 +282,7 @@ Contributions to this repository not only enhance its utility but also help the 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hawkh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/hawkh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Memoization
 |  |
